@@ -3,7 +3,7 @@
 
 I am a Software Developer who is learning everyday. I am passionate about technologies and love to learn new things.
 
-#### 🔭 I’m currently looking for new opportunities.
+#### 🔭 Always ready for new opportunities.
 
 
 ## ⚡ Tech Stack
